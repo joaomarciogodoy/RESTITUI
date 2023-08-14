@@ -178,6 +178,15 @@ footer img {
 
 }
 
+.footer-list-social {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 0.75rem;
+    list-style: none;
+
+}
+
 .footer-list .footer-link {
     color: #a8a29e;
     text-align: center;
@@ -264,17 +273,9 @@ footer img {
         padding: 10px;
     }
 
-    h3 {
-        text-align: center;
-        margin-top: 10px;
-    }
 
-    #footer-contacts {
-        margin-bottom: 10px;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-    }
+
+
 
 }
 
@@ -360,9 +361,7 @@ footer img {
 
     }
 
-    ul {
-        margin-bottom: 25px;
-    }
+
 
 }
 
