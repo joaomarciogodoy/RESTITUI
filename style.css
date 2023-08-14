@@ -277,6 +277,11 @@ footer img {
         margin-bottom: 30px;
     }
 
+    .footer-list .footer-link {
+        color: #a8a29e;
+        font-size: 10px;
+        text-align: center;
+    }
 
 
 }
